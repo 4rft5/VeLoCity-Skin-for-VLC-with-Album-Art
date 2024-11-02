@@ -1,4 +1,4 @@
-# Velocity for VLC W/Album Art
+# VeLoCity-Skin-for-VLC
 
 ## Please visit ![VeLoCity-Skin-for-VLC](https://github.com/dmtiir/VeLoCity-Skin-for-VLC) for the full skin.
 
