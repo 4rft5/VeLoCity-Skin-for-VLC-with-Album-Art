@@ -1,142 +1,31 @@
-# VeLoCity-Skin-for-VLC
-Castom skin for VLC Player
+# Velocity for VLC W/Album Art
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-## Introduction
+## Please visit ![VeLoCity-Skin-for-VLC](https://github.com/dmtiir/VeLoCity-Skin-for-VLC) for the full skin.
 
-I believe that convenient UX and beautiful UI make our life better, it is no less important than a good view from the window or a good terrier. 
-We look at the screen of our computers a lot of the time, it's a big part of our lives. I want people to get aesthetic pleasure from UX and UI.
-And of course that HCG was easy intuitive logical and functional.
+<hr>
+###Information
+This is an edited version of the 'Dark' theme from the Velocity pack that adds in album art for mp3s.
+I've never really coded in XML before, so it's imperfect, but does work as intented with square album art.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+If anyone wants, I could port this over to other versions of the theme really easily. Let me know by opening an issue for what version you want to use.
 
+<hr>
+###Screenshots 
 
-## VeLoCity skin for VLC.
+Miniplayer:
+![2024-11-02_01-45](https://github.com/user-attachments/assets/8e351009-207e-47c4-930f-4e031a1c1144)
 
-Features:
-- Built-in playlist.
-- Mini window Layout special for audio (files and internet radio).
-- Light appearance, but functionality.
-- Small and functionality fullscreen Layout.
-- Multiple color schemes (installed separately).
-- Comfortable time slider. It is works well when you miss it slightly.
-- Large spaces for dragging the window with a small overall interface size.
+Regular Player:
+![2024-11-02_01-45_1](https://github.com/user-attachments/assets/3b1f67dc-30ff-4597-bdf0-17e2ee5cd5cc)
 
+Reg. Player w/Playlist:
+![2024-11-02_01-46](https://github.com/user-attachments/assets/28e3f349-b391-475c-84a4-60e06c1c32cf)
 
-#### Unfortunately, there are limitations for VLC themes. And I'm not able to fix them. Some things I would like to add, but at the moment it is not possible:
-- Skins does not work on Mac OS.
-- You cannot drag window using the video zone.
-- You can not start and stop the video by clicking on the video zone.
-- You can not rewind the video by swiping through the video zone.
-- You can't drag window over the titles and text zones.
-- You cannot change the window size to the top or to the left.
-- You cannot change the window size to the right without making an additional border.
+<hr>
+##Usage
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Download the .vlt skinfile and place it in your `C:\Program Files (x86)\VideoLAN\VLC\skins` folder.
 
+Then, open VLC, use CTRL+P to open preferences, Interface tab, and select "Use Custom Skin". Press `Choose:` to bring up the skins folder where your saved skin is.
 
-## UX/UI features.
-
-![VeLoCity_prev-01](https://user-images.githubusercontent.com/106811960/171930023-1bdd0ab1-9c92-44df-9155-47c4285e3b40.gif)
-
-
-
-
-
-![VeLoCity_prev-02](https://user-images.githubusercontent.com/106811960/171930043-db982479-0c98-432a-82e0-00c28682d32b.gif)
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------
-
-
-## Multiple color schemes:
-
-
-
-
-### DeepBlue
-
-![VeLoCity DeepBlue Preview](https://user-images.githubusercontent.com/106811960/171930628-d1b29df5-9042-4715-9ffd-0add49a81bb3.png)
-
-
-
-
-
-### Dark
-
-![VeLoCity Dark Preview](https://user-images.githubusercontent.com/106811960/171930676-22b97c27-bc5c-4196-b9c8-917c0d5d2a35.png)
-
-
-
-
-
-
-### Dark Mist
-
-![VeLoCity Dark Mist Preview](https://user-images.githubusercontent.com/106811960/171930713-09547fe0-ec17-4b6d-9320-d866c7682ca9.png)
-
-
-
-
-
-### Light
- 
-
-![VeLoCity Light Preview](https://user-images.githubusercontent.com/106811960/171930748-cb06a5cf-ba29-482a-9981-31352de90a13.png)
-
-
-
-
-
-### Light Mist
-
-
-![VeLoCity Light Mist Preview](https://user-images.githubusercontent.com/106811960/171930779-16538f81-e34f-4e28-a57a-cec141472943.png)
-
-
-
-
-
-## How to use these skins? 
-
-
- 1. Put the downloaded VLT files in the following folder:
-
-    - On Windows: the skins folder in the VLC installation directory (e.g. C:\Program Files\VideoLAN\VLC\skins)
-    - On Linux/Unix: ~/.local/share/vlc/skins2
-
- 2. Then open VLC Settings>Interface>Look and Feel. And choose "Use Custom skin". 
-    - You can choose skin already there in "Skin resource file"
-    - Or change it in VLC. Rightclicking somewhere on the program window and going to Interface>Select Skin>.
-
- 3. Enjoy It. And check my following works on  twitter.com/dmtiir/  or  github.com/dmtiir  or  dribbble.com/dmtiir
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
- ### PS. Skins do not work on Mac OS X! This is a limitation from VLC developers
-
-
+Enjoy!
