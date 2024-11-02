@@ -6,7 +6,7 @@
 
 ### Information
 
-This is an edited version of the 'Dark' theme from the Velocity pack that adds in album art for mp3s.
+This is an edited version of the 'Dark' theme from the Velocity pack that adds in album art for audio.
 I've never really coded in XML before, so it's imperfect, but does work as intented with square album art.
 
 If anyone wants, I could port this over to other versions of the theme really easily. Let me know by opening an issue for what version you want to use.
