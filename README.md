@@ -31,7 +31,7 @@ If anyone wants, I could port this over to other versions of the theme really ea
 
 ## Usage
 
-Download the .vlt skinfile and place it in your `C:\Program Files (x86)\VideoLAN\VLC\skins` folder.
+Download the .vlt skinfile from releases and place it in your `C:\Program Files (x86)\VideoLAN\VLC\skins` folder.
 
 Then, open VLC, use CTRL+P to open preferences, Interface tab, and select "Use Custom Skin". Press `Choose:` to bring up the skins folder where your saved skin is.
 
