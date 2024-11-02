@@ -1,4 +1,4 @@
-# VeLoCity-Skin-for-VLC
+# VeLoCity-Skin-for-VLC-with-Album-Art
 
 ## Please visit ![VeLoCity-Skin-for-VLC](https://github.com/dmtiir/VeLoCity-Skin-for-VLC) for the original (unmodified) skin.
 
