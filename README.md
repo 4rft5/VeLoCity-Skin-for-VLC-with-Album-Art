@@ -1,6 +1,6 @@
 # VeLoCity-Skin-for-VLC
 
-## Please visit ![VeLoCity-Skin-for-VLC](https://github.com/dmtiir/VeLoCity-Skin-for-VLC) for the full skin.
+## Please visit ![VeLoCity-Skin-for-VLC](https://github.com/dmtiir/VeLoCity-Skin-for-VLC) for the original (unmodified) skin.
 
 <hr>
 
